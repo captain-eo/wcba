@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Horizontal_x5F_Small" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1976.17 566.81">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #064355;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: HankenGrotesk-Black, 'Hanken Grotesk';
+        font-size: 468.42px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(540.55 477.78)"><tspan class="cls-5" x="0" y="0">W</tspan><tspan class="cls-1" x="445.46" y="0">C</tspan><tspan class="cls-4" x="778.97" y="0">B</tspan><tspan class="cls-6" x="1064.24" y="0">A</tspan></text>
+  <g id="Logo">
+    <g id="Forground">
+      <path class="cls-2" d="M141.46,481.02c7.06-24.01-.21-48.8-17.73-61.54l255.61-160.3c-7.75-13.99-41.86-79.36-14.3-98.34,30.92-21.3,87.24,40.55,87.24,40.55,0,0,9.76-65.58,39.32-70.5-7.49-10.13-15.72-19.69-24.59-28.56-45.48-45.48-108.31-73.61-177.71-73.61-138.79,0-251.3,112.5-251.3,251.3v251.3h502.6v-50.3H141.46ZM125.61,481.02h-46.66c-15.39,0-21.2-20.16-8.15-28.34l38.61-24.22c17.56,7.71,24.61,30.96,16.2,52.56Z"/>
+      <path class="cls-2" d="M424.81,342.57c0,15.37-12.46,27.83-27.83,27.83s-27.83-12.46-27.83-27.83,12.45-27.83,27.83-27.83,27.83,12.46,27.83,27.83Z"/>
+    </g>
+  </g>
+</svg>

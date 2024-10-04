@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vertical_x5F_Large" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 684.77 847.15">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #064355;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: HankenGrotesk-Black, 'Hanken Grotesk';
+        font-size: 190.21px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-family: HankenGrotesk-Light, 'Hanken Grotesk';
+        font-size: 39.12px;
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Text">
+    <text class="cls-4" transform="translate(66.14 750.47)"><tspan class="cls-1" x="0" y="0">W</tspan><tspan class="cls-14" x="180.91" y="0">C</tspan><tspan class="cls-16" x="312.46" y="0">B</tspan><tspan x="424.52" y="0">A</tspan></text>
+    <text class="cls-5" transform="translate(88.73 800.9)"><tspan class="cls-7" x="0" y="0">W</tspan><tspan x="36.66" y="0">hi</tspan><tspan class="cls-8" x="66.16" y="0">t</tspan><tspan x="78.72" y="0">e </tspan><tspan class="cls-2" x="109.97" y="0">C</tspan><tspan x="136.97" y="0">e</tspan><tspan class="cls-7" x="158.06" y="0">n</tspan><tspan class="cls-8" x="178.71" y="0">t</tspan><tspan x="191.27" y="0">er </tspan><tspan class="cls-12" x="238.06" y="0">B</tspan><tspan class="cls-9" x="261.07" y="0">u</tspan><tspan class="cls-15" x="281.76" y="0">si</tspan><tspan class="cls-13" x="308.52" y="0">n</tspan><tspan class="cls-11" x="329.33" y="0">e</tspan><tspan x="350.19" y="0">ss </tspan><tspan class="cls-8" x="396.9" y="0">A</tspan><tspan x="420.61" y="0">llia</tspan><tspan class="cls-10" x="470.29" y="0">n</tspan><tspan class="cls-6" x="491.11" y="0">c</tspan><tspan x="510.98" y="0">e</tspan></text>
+  </g>
+  <g id="Logo">
+    <g id="Forground">
+      <path class="cls-3" d="M181.71,533.98c7.8-26.5-.24-53.88-19.58-67.94l282.21-176.98c-8.56-15.44-46.22-87.61-15.79-108.57,34.14-23.52,96.32,44.77,96.32,44.77,0,0,10.77-72.4,43.41-77.84-8.27-11.18-17.35-21.73-27.15-31.54-50.21-50.21-119.58-81.27-196.2-81.27-153.23,0-277.45,124.21-277.45,277.45v277.45h554.9v-55.54H181.71ZM164.21,533.98h-51.51c-16.99,0-23.41-22.26-9-31.29l42.62-26.74c19.38,8.52,27.17,34.18,17.89,58.03Z"/>
+      <path class="cls-3" d="M494.54,381.13c0,16.96-13.76,30.72-30.72,30.72s-30.72-13.76-30.72-30.72,13.74-30.72,30.72-30.72,30.72,13.76,30.72,30.72Z"/>
+    </g>
+  </g>
+</svg>
